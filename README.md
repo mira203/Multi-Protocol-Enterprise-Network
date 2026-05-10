@@ -1,7 +1,10 @@
-<img width="1368" height="691" alt="image" src="https://github.com/user-attachments/assets/519a5020-02bb-476a-bf21-ceb95fd59101" />
+Enterprise Network Design with Multi-Protocol Routing
 
 ●  Project Overview
 This project demonstrates the design and configuration of a complex enterprise network using Cisco Packet Tracer. The topology connects multiple regional offices (Cairo, Alex, Damietta, Giza) through a Frame Relay Cloud, ensuring seamless connectivity across different routing domains.
+
+<img width="1368" height="691" alt="image" src="https://github.com/user-attachments/assets/519a5020-02bb-476a-bf21-ceb95fd59101" />
+
 
 ●  Key Features
 Multi-Protocol Integration: Implementation of OSPF, EIGRP (AS 5 & 6), and RIP protocols.
